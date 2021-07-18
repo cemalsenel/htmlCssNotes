@@ -1,0 +1,23 @@
+#fonts1{
+    font-family:'Courier', Courier, monospace;
+    font-style: italic;
+    font-size: 5vw;
+}
+#fonts2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial', sans-serif;
+    font-style: oblique;
+    font-size: 300%;
+}
+#fonts3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-size:large;
+     font-weight: bolder;
+}
+#fonts4{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 100;
+}
+#fonts5{
+    font-variant: small-caps;
+}

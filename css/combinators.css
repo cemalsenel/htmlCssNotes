@@ -1,0 +1,15 @@
+/* div p {
+    background-color:mediumspringgreen;
+} */
+/* div > p{
+    background-color:mediumspringgreen;
+} */
+/* div + p {
+    background-color:mediumspringgreen;
+} */
+/* p + p {
+    background-color:mediumspringgreen;
+} */
+ div ~ p{
+    background-color:mediumspringgreen;
+ }

@@ -1,0 +1,35 @@
+#texts1{
+    color:crimson;
+    text-align: left;
+    text-decoration:none;
+    text-transform: capitalize;
+    text-indent: 2em;
+    letter-spacing: 12px;
+}
+#texts2{
+    color:blue;
+    text-align: right;
+    text-decoration:underline overline wavy lime;
+    text-transform:lowercase;
+    text-indent: 10px;
+    line-height: 50px;
+}
+#texts3{
+    color:rgba(9, 9, 159, 0.8);
+    text-align:center;
+    text-decoration: overline underline solid;
+    text-transform: uppercase;
+    word-spacing: 45px;
+}
+#texts4{
+    color: hsla(298, 82%, 49%, 0.3);
+    text-align:justify;
+    text-decoration:line-through;
+    text-decoration-color: crimson;
+}
+#texts5{
+    color:rgba(68, 12, 158, 0.7);
+    direction: rtl;
+    word-spacing: 45px;
+    text-shadow: -15px -15px 2px black;
+}

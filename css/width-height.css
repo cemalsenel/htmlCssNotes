@@ -1,0 +1,56 @@
+body{
+    background-color:#eeeeee;
+}
+
+#main-content{
+    background-color: #ffffff;
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 2%;
+}
+
+.auto-width{
+    width: auto;
+    height: auto;
+    background-color: aqua;
+    border:2px solid black;
+    margin: 50px;
+    outline: 10px dashed crimson;
+    outline-offset: 15px;
+}
+
+.lenght-width{
+    width: 50px;
+    height: 50px;
+    background-color: bisque;
+    outline: 10px dashed crimson;
+    outline-offset: -15px;
+    margin: 50px;
+}
+.percentage-width{
+    width: 80%;
+    height: 10%;
+    background-color: blueviolet;
+}
+.initial-width{
+    width: initial;
+    height: initial;
+    background-color:coral;
+}
+.inherit-width{
+    width:inherit;
+    height: inherit;
+    background-color:seagreen;
+}
+.max-width{
+    max-width: 350px;
+    min-width: 100px;
+    background-color: magenta;
+}
+.max-height{
+    max-height: 150px;
+    min-height: 200px;
+    background-color: mediumslateblue;
+    overflow: auto;
+}

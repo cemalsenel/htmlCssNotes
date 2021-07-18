@@ -1,0 +1,19 @@
+p{
+    border:1px solid black;
+    padding: 5px;
+}
+img{
+    width:200px;
+    float:left;
+    margin-right: 10px;
+    /* position: absolute;
+    position:absolute : bu özellik aktif olunca sayfanın en üst katmanında 
+    diğer katmanlardan bağımsız hareket edebiliyor. Ama float aktif olursa
+    diğer nesneler ile bağı devam ediyor */
+    /* top:30px;
+    left:200px; */
+}
+.clear{
+    /* overflow: auto; */
+    clear: left;
+}

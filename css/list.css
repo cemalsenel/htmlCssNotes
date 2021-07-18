@@ -1,0 +1,18 @@
+ul{
+    /* list-style-type: none; */
+    /* list-style-image: url("./imagesList/purpleSquare.png"); */
+    /* list-style-position: inside; */
+    /* list-style-position: outside; */
+    /* background-color:lime; */
+    /* list-style: square inside; */
+}
+li{
+    border: 1px solid black;
+}
+/* li:before{
+    content:"\2764";
+    color:crimson 
+} */
+li:before{
+    content: "🥇" ;
+}
