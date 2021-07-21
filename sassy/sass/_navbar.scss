@@ -1,0 +1,24 @@
+// .container{
+//     background-color: yellow;
+
+//     // &__button--small{
+//     //     background-color: yellowgreen;
+//     // }
+//     // &__button--large{
+//     //     background-color: crimson;
+//     // }
+
+//     &__button{
+//         &--small{
+//             background-color: pink;
+//         }
+//         &--large{
+//             background-color: crimson;
+//         }
+//     }
+// }
+.navbar__logo{
+    width: 150px;
+    height: 30px;
+    background-color: #c4c4c4;
+}
