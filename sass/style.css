@@ -1,0 +1,25 @@
+.main-block {
+  background: gray;
+}
+
+.main-block p {
+  color: crimson;
+  font-size: 2rem;
+  margin: 24px;
+  font-size: 0.5rem;
+}
+
+.main-block div {
+  background: cyan;
+}
+
+.main-block div p {
+  color: limegreen;
+}
+
+h1, h2 {
+  color: crimson;
+  text-align: center;
+  margin: 1rem;
+}
+/*# sourceMappingURL=style.css.map */

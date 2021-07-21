@@ -1,0 +1,22 @@
+@mixin myValues {
+    color: $primaryTextColor;
+    font-size: 2rem;
+    margin: 24px;
+}
+
+
+.main-block {
+    background: gray;
+  
+    p {
+      @include myValues;
+      font-size: 0.5rem;
+    }
+    div {
+      background: cyan;
+  
+      p {
+        color: $secondaryTextColor;
+      }
+    }
+  }
